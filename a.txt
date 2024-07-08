@@ -6,3 +6,6 @@ de Arquivo
 Diff
 de
 Arquivo
+a
+b
+c
