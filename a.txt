@@ -11,3 +11,5 @@ b
 c
 'Nova modificação'
 'Necessidade de criação de um título'
+
+'É necessário a criação de um navbar, com o ícone da empresa no canto superior esquerdo, com os links logo depois do ícone'
